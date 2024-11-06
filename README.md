@@ -8,13 +8,13 @@
 - E-mail to [xiaohong24gh@outlook.com](mailto:xiaohong24gh@outlook.com). (only weekends)
 
 #### Skills
-![](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,vue,pinia,nuxt,md,electron,jquery,express,react&perline=10)
+![](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,vue,pinia,nuxt,md,electron,jquery,express,react)
 
 #### Plan to learn
-![](https://skillicons.dev/icons?i=less,tailwind,cpp,rust,py,php,java,go,dart&perline=10)
+![](https://skillicons.dev/icons?i=less,tailwind,cpp,rust,py,php,java,go,dart)
 
 #### Tools I use
-![](https://skillicons.dev/icons?i=windows,nginx,github,githubactions,gitlab,git,codepen,vscode,npm,vite,webpack,rollup,docker,ps,mysql,sqlite,visualstudio&perline=10)
+![](https://skillicons.dev/icons?i=windows,nginx,github,githubactions,gitlab,git,codepen,vscode,npm,vite,webpack,rollup,docker,ps,mysql,sqlite,visualstudio)
 
 <!--为什么写个Profile感觉自己在说废话，，-->
 
