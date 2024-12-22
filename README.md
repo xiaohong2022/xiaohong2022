@@ -14,7 +14,7 @@
 ![](https://skillicons.dev/icons?i=less,tailwind,cpp,rust,py,php,java,go,dart)
 
 #### Tools I use
-![](https://skillicons.dev/icons?i=windows,nginx,github,githubactions,gitlab,git,codepen,vscode,npm,vite,webpack,rollup,docker,ps,mysql,sqlite,visualstudio)
+![](https://skillicons.dev/icons?i=windows,nginx,github,githubactions,gitlab,git,codepen,vscode,npm,vite,webpack,rollup,docker,powershell,mysql,sqlite,visualstudio)
 
 <!--为什么写个Profile感觉自己在说废话，，-->
 
